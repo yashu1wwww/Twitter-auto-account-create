@@ -7,10 +7,10 @@ https://youtu.be/VUMUYhpnd2M
 change 69 line with
 your mail/10 mins mail/ph no/temp mail 
 
-all process go autgomatic in the authentication section  they ask click next and puzzle solve yes all done....
+all process go automatic in the authentication section  they ask click next and puzzle solve yes all done....
 
 
-Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd and enter t.py or click on t.py or you can rename the file and run
+Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd on that particular folder and enter t.py or click on t.py or you can rename the file and run
 
 👉Note:-
 
