@@ -28,7 +28,6 @@ and
 
 python -c "import selenium; print(selenium.version)"
 
-I dont Find Any Bms Auto Rating In Google So Try To Made It And Get success
 
 These Project Is Only For Reference Use Dont Use In large Scale.
 
