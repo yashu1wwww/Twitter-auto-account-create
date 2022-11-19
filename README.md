@@ -8,6 +8,8 @@ https://youtu.be/c9MAJpax5R0
 👉twitter auto account create
 https://youtu.be/VUMUYhpnd2M
 
+In upcoming Days i will try to bypass puzzle verification.......
+
 change 69 line with
 your mail/10 mins mail/ph no/temp mail 
 
