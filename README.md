@@ -8,15 +8,11 @@ https://youtu.be/c9MAJpax5R0
 👉twitter auto account create
 https://youtu.be/VUMUYhpnd2M
 
-In upcoming Days i will try to bypass puzzle verification.......
+In the upcoming days, I will try to bypass puzzle verification.
 
-change 69 line with
-your mail/10 mins mail/ph no/temp mail 
+Please replace line 69 with your email/10-minute mail/phone number/temporary mail. The authentication section will then proceed automatically, and when prompted to click next and solve the puzzle, please do so.
 
-all process go automatic in the authentication section  they ask click next and puzzle solve yes all done....
-
-
-Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd on that particular folder and enter t.py or click on t.py or you can rename the file and run
+To start, download the latest version of Chrome Driver from https://chromedriver.chromium.org/, extract the file, and place it in the designated folder. Then, open the command prompt in that folder and enter "t.py" or click on "t.py". Alternatively, you can rename the file and run it
 
 👉Note:-
 
