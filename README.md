@@ -5,10 +5,7 @@ Twitter account auto create using python with selenium
 
 https://youtu.be/c9MAJpax5R0
 
-👉twitter auto account create
-https://youtu.be/VUMUYhpnd2M
-
-In the upcoming days, I will try to bypass puzzle verification.
+## In the upcoming days, I will try to bypass puzzle verification.
 
 Please replace line 69 with your email/10-minute mail/phone number/temporary mail. The authentication section will then proceed automatically, and when prompted to click next and solve the puzzle, please do so.
 
