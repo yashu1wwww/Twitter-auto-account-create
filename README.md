@@ -7,7 +7,7 @@ https://youtu.be/c9MAJpax5R0
 
 ## In the upcoming days, I will try to bypass puzzle verification.
 
-# Please replace line 70th with your email/10-minute mail/phone number/temporary mail. 
+## Please replace line 75th with your email/10-minute mail/phone number/temporary mail. 
 
 ## The authentication section will then proceed automatically, and when prompted to click next and solve the puzzle, please do so.
 
