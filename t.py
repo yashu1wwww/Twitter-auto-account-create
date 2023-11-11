@@ -97,5 +97,5 @@ time.sleep(40)
 
 #next it will sign up button and next ask authentication button click that and ask puzzle do it and ask useername enter all done.......(In upcoming Days i will try to bypass puzzle verification)
 
-driver.close()
+
 
