@@ -97,7 +97,7 @@ time.sleep(40)
 
 #note down the username and password..
 
-#next it will sign up button and next ask authentication button click that and ask puzzle do it and ask useername enter all done.......(In upcoming Days i will try to bypass puzzle verification)
+#next it will ask sign up button and next ask authentication button click that and ask puzzle do it and ask useername enter all done.......(In upcoming Days i will try to bypass puzzle verification)
 
 
 
