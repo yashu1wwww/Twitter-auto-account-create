@@ -1,10 +1,6 @@
 # Twitter-auto-account-create
 Twitter account auto create using python with selenium
 
-👉𝐀𝐟𝐭𝐞𝐫 𝐓𝐰𝐨 𝐨𝐫 𝐦𝐨𝐫𝐞 𝐜𝐨𝐦𝐩𝐢𝐥𝐞 𝐨𝐟 𝐛𝐨𝐭𝐬 𝐖𝐚𝐭𝐜𝐡 𝐓𝐡𝐞𝐬𝐞 𝐕𝐢𝐝𝐞𝐨 𝐀𝐧𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐕𝐩𝐧 𝐚𝐧𝐝 𝐫𝐮𝐧
-
-https://youtu.be/c9MAJpax5R0
-
 ## In the upcoming days, I will try to bypass puzzle verification.
 
 ## Please replace line 75th with your email/10-minute mail/phone number/temporary mail. 
