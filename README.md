@@ -9,7 +9,7 @@ Twitter account auto create using python with selenium
 
 To start, download the latest version of Chrome Driver from https://chromedriver.chromium.org/, extract the file, and place it in the designated folder. Then, open the command prompt in that folder and enter "t.py" or click on "t.py". Alternatively, you can rename the file and run it
 
-👉Note:-
+# 👉 Note: Every time Twitter updates the code, it varies. So press 'Ctrl+Shift+C' to open the developer tools, and inspect and fork it..
 
 👉if your selenium version is in latest version then the code never run
 
